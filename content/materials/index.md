@@ -2,7 +2,7 @@
 title: "Materials"
 ---
 
-[OFA Bulletin](/materials/bulletin)
+[OFA Bulletin](/materials/bulletins)
 
 > The OFA began publication of a twice annual Bulletin in 1979. The OFA Bulletin
 is published twice yearly and has been distributed via US Mail as well as email.
