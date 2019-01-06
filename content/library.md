@@ -13,7 +13,7 @@ Past issues of the OFA Bulletin are available in PDF format.
 > View and download the latest research for Overholser family lines in PDF
 format.
 
-[Historical Documents](/historical-documents)
+[OFA Historical Documents](/historical-documents)
 
 > Historical documents of the Overholser Family Association are available in PDF
 format.
@@ -24,7 +24,7 @@ format.
 described as “A Foundation Book of Oberholtzer Immigrants and Unestablished
 Lines.”
 
-[OFA CDs](/cd)
+[OFA CD](/cd)
 
 > The OFA has published a CD entitled “MC Family Line, Marcus Oberholtzer.” The
 CD contains 5.43MB or 861 pages of Overholser family data.

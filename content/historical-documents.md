@@ -156,7 +156,7 @@ Describing the Confederate Invasion of Franklin County, Pennsylvania, in 1863
 2008, and an edited version by Franklin County Historical Society is in their
 2009 publication Kittochtinny.
 
-> In looking through some old papers from my father’s collection recently, I
+> In looking through some old papers from my father's collection recently, I
 discovered a ledger book with many handwriting exercises, arithmetic exercises,
 and handwritten essays that obviously had been written by a schoolboy. The name
 at the top of the papers was Henry L. Heisey (1844-1912). I knew from my
@@ -164,9 +164,21 @@ genealogy records that he was my great-grandfather, but I never had known
 anything about him. I then learned that he was a bishop in the Brethren in
 Christ Church in the Manor-Pequea District, Lancaster County, Pennsylvania. The
 finding of his papers sparked my interest in discovering more about him. My
-subsequent research resulted in a published biographical article, “Henry L.
-Heisey: Bishop of Manor-Pequea District, Lancaster County,” in Brethren in
+subsequent research resulted in a published biographical article, "Henry L.
+Heisey: Bishop of Manor-Pequea District, Lancaster County," in Brethren in
 Christ History and Life (2007).
+
+[An Overholtzer Teamster with the Braddock Expedition, 1755](An-Overholtzer-Teamster-with-the-Braddock-Expedition-1755.pdf)
+
+> The most complete account of the Pennsylvania German teamsters which were
+recruited by Benjamin Franklin for the support of the Braddock Expedition is
+given by Arthur D Graeff in "The Relations between the Pennsylvania Germans and
+the British Authorities (1750-1776)" published by the Pennsylvania German
+Society in Volume 47 of their proceedings in 1939. The paper was read in Hershey
+PA in 1934 and contains 271 pages. The Braddock expedition is described in
+Chapter IV, pp 77-94. The same event is described by Douglas Southall Freeman in
+"George Washington", Volume II, chapters II through VII, and contains a good
+account of the preparation of the campaign and the battle
 
 Letters to Reverend Jacob Oberholtzer (JF)
 
