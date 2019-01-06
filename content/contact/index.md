@@ -22,6 +22,10 @@ To join the OFA discussion group, visit the OFA discussion group page, then
 click the Apply to join group button near the top of the page, then fill out the
 form with your information to join the group.
 
+![alt text](/contact/ofa-discussion-group-1.png "OFA Discussion Group - Apply")
+
 Once you’ve joined the OFA discussion group and been approved, you can post a
 new message to the group by clicking the New Topic button near the top of the
 page and posting your message.
+
+![alt text](/contact/ofa-discussion-group-1.png "OFA Discussion Group - New Topic")

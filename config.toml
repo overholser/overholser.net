@@ -30,14 +30,14 @@ theme = "ananke"
     name = "OFA Materials"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/ofa-materials/"
+    url = "/materials/"
     weight = 4
 
   [[menu.main]]
     name = "Annual Reunions"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/annual-reunions/"
+    url = "/reunions/"
     weight = 5
 
   [[menu.main]]
