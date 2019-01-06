@@ -1,9 +1,27 @@
 ---
-title: "About"
+title: "Contact"
 ---
 
-In arriving at an appropriate name for the family association, the founding members considered a number of spelling variations. The name Overholser was chosen as most representative of the spelling variations found in numerous historical records. However, the original spelling of the surname was Oberholtzer.
+### Contact OFA Officers
 
-Oberholtzer: Name Meaning and History – German: from Middle High German ober ‘above’ (or German ober- ‘upper’) + holz ‘wood’ + the suffix -er, denoting an inhabitant, a topographic name for someone who lived above a wood or on the far side of it, or alternatively a habitational name for someone who lived in a place known as Oberholtz (‘upper wood’).
+For direct contact information or a list of current OFA officers, refer to the
+most recent OFA Bulletin.
 
-Following is a list of surnames included in the OFA’s families: Oberholtz, Uberholtzer, Overholser, Oberheuser, Overhults, VanHulser, Overhuls, Overhalser, Overhalt, Atherholt, Obold, Uberholser, Overholtzer, Overholt, Overhulster, Oberholser, Oberholtzer. Other names may be added as they are identified.
+### OFA Discussion Group
+
+The OFA has an online discussion group where you can post questions, comments,
+family lookup requests, discussion about the annual OFA reunion, or any other
+topics relevant to the OFA:
+
+https://groups.google.com/forum/#!forum/overholser-family-association
+
+You can register for the OFA discussion group, then post to the group via email
+or web using the above link.
+
+To join the OFA discussion group, visit the OFA discussion group page, then
+click the Apply to join group button near the top of the page, then fill out the
+form with your information to join the group.
+
+Once you’ve joined the OFA discussion group and been approved, you can post a
+new message to the group by clicking the New Topic button near the top of the
+page and posting your message.

@@ -1,9 +1,24 @@
 ---
-title: "About"
+title: "Lookups"
 ---
 
-In arriving at an appropriate name for the family association, the founding members considered a number of spelling variations. The name Overholser was chosen as most representative of the spelling variations found in numerous historical records. However, the original spelling of the surname was Oberholtzer.
+The OFA’s most important contribution to Oberholtzer family descendants is The
+Oberholtzer Book: A Foundation Book of Oberholtzer Immigrants and Unestablished
+Lines, which was compiled and edited by Barbara B. Ford. Published by the OFA in
+1995, The Oberholtzer Book chronicles the first generations of six “established”
+Oberholtzer lines, and 18 other “unestablished” lines identified in Pennsylvania
+and Ohio. Also documented are five Canadian lines, three Virginia lines, eight
+female lines, and “odds and ends.” See OFA Book.
 
-Oberholtzer: Name Meaning and History – German: from Middle High German ober ‘above’ (or German ober- ‘upper’) + holz ‘wood’ + the suffix -er, denoting an inhabitant, a topographic name for someone who lived above a wood or on the far side of it, or alternatively a habitational name for someone who lived in a place known as Oberholtz (‘upper wood’).
+While the OFA Book is available for purchase, we realize that there are those
+who prefer not to buy books. Therefore, the OFA has established a lookup
+activity to assist current Overholser family researchers in connecting their
+current family tree to the Overholser families of the past.
 
-Following is a list of surnames included in the OFA’s families: Oberholtz, Uberholtzer, Overholser, Oberheuser, Overhults, VanHulser, Overhuls, Overhalser, Overhalt, Atherholt, Obold, Uberholser, Overholtzer, Overholt, Overhulster, Oberholser, Oberholtzer. Other names may be added as they are identified.
+To request a lookup, please [contact the Overholser Family
+Association](/contact/). Please include the names (husband and wife plus known
+children), dates (birth, marriage, and death), and locations of your earliest
+known Overholser ancestor. Please include “Overholser Lookups” in the subject of
+the email. Finally, please include your US mail address.
+
+Thank you!
