@@ -10,12 +10,12 @@ Lines.” Anyone may purchase a copy of our Book.
 
 The OFA Book is: $40.00 + $4.40 shipping & handling (book rate). PA residents
 need to add $2.40 for PA tax. If you have any questions regarding the book or
-your order, please [contact the Overholser Family Association](/contact).
+your order, please [contact the Overholser Family Association](/contact/).
 
 To bring our publications up to date with current Overholser family relatives,
 we would appreciate your input for your Overholser family history. If you would
 like to contribute to our efforts to compile an overall Overholser family
-history, please [contact the Overholser Family Association](/contact).
+history, please [contact the Overholser Family Association](/contact/).
 
 Introduction In the 1700s, a number of families named Oberholtzer (or similar
 spelling) sailed by various ships from Europe to America. The actual number of
@@ -91,7 +91,7 @@ Descendants of the following individuals are not identified in The Book.
 * Susanna Overholtzer Lancaster Co PA m. Jacob G. Wenger
 
 If you wish to obtain additional information on any of the above names, please
-send your request to the [Overholser Family Association](/contact). If you have
+send your request to the [Overholser Family Association](/contact/). If you have
 additional data, particularly on the females, please share that info with us as
 well. We are currently gathering family data to produce a follow on document,
 hard copy and/or digital. We would appreciate your assistance.
