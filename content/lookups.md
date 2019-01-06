@@ -20,5 +20,3 @@ Association](/contact/). Please include the names (husband and wife plus known
 children), dates (birth, marriage, and death), and locations of your earliest
 known Overholser ancestor. Please include “Overholser Lookups” in the subject of
 the email. Finally, please include your US mail address.
-
-Thank you!

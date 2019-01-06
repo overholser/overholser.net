@@ -7,16 +7,26 @@ theme = "ananke"
 [menu]
 
   [[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
+    identifier = "library"
+    name = "Library"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/library/"
     weight = 1
 
   [[menu.main]]
-    name = "History"
+    parent = "library"
+    name = "OFA Bulletins"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/history/"
+    url = "/bulletins/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Reunions"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/reunions/"
     weight = 2
 
   [[menu.main]]
@@ -27,44 +37,34 @@ theme = "ananke"
     weight = 3
 
   [[menu.main]]
-    identifier = "ofa-materials"
-    name = "OFA Materials"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/materials/"
-    weight = 4
-
-  [[menu.main]]
-    parent = "ofa-materials"
-    name = "OFA Bulletins"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/bulletins/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Annual Reunions"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/reunions/"
-    weight = 5
-
-  [[menu.main]]
     name = "Lookups"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/lookups/"
-    weight = 6
+    weight = 4
 
   [[menu.main]]
     name = "Links"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/links/"
+    weight = 5
+
+  [[menu.main]]
+    name = "History"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/history/"
+    weight = 6
+
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
     weight = 7
 
   [[menu.main]]
-    name = "Contact Us"
+    name = "Contact"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/contact/"

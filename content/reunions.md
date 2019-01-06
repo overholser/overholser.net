@@ -1,5 +1,5 @@
 ---
-title: "Annual Reunions"
+title: "Reunions"
 ---
 
 The Overholser Family Association (OFA) held its first family reunion in 1906 in
