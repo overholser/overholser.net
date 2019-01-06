@@ -29,10 +29,24 @@ family members and post on your Facebook page as well.
 
 ### Search
 
-The site search (available on the navigation menu) includes all of the content
-on the OFA website as well as the full-text contents of the PDF documents
-available from this website. The site-wide search functionality is provided as
-an external Google site search.
+The site search includes all of the content on the OFA website as well as the
+full-text contents of the PDF documents available from this website. The
+site-wide search functionality is provided as an external Google site search.
+
+<div id="google-custom-search">
+<script>
+  (function() {
+    var cx = '018166006193804902139:9fljjc_ecta';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
 
 ### Donate with Paypal
 
