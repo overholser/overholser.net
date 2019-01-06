@@ -1,5 +1,5 @@
 ---
-title: "Library"
+title: "OFA Library"
 ---
 
 [OFA Bulletins](/bulletins)
