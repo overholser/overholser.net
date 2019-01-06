@@ -1,0 +1,62 @@
+baseURL = "https://overholser.net/"
+languageCode = "en-us"
+title = "Overholser Family Association"
+# theme = "hugo-bootstrap-premium"
+theme = "ananke"
+
+[menu]
+
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "History"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/history/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Membership"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/membership/"
+    weight = 3
+
+  [[menu.main]]
+    name = "OFA Materials"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/ofa-materials/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Annual Reunions"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/annual-reunions/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Lookups"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/lookups/"
+    weight = 6
+
+  [[menu.main]]
+    name = "Links"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/links/"
+    weight = 7
+
+  [[menu.main]]
+    name = "Contact Us"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/contact/"
+    weight = 8
