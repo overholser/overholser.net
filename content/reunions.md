@@ -10,10 +10,10 @@ days, times and location in Lancaster County of the OFA Reunion are announced in
 the second OFA Bulletin of the year, which is distributed in July (also
 identified as the Summer issue).
 
-If you are not receiving the bulletin, visit the [OFA Bulletin
-page](/bulletins/) and look for the latest Summer edition of
-the Bulletin. Meanwhile, we invite you to join us in any year for our Reunion.
-We will have food and space for one and all!
+If you are not receiving the bulletin, visit the [OFA Bulletins
+page](/bulletins/) and look for the latest Summer edition of the Bulletin.
+Meanwhile, we invite you to join us in any year for our Reunion. We will have
+food and space for one and all!
 
 Past Reunions:
 
