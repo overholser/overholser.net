@@ -1,9 +1,25 @@
 ---
-title: "About"
+title: "Materials"
 ---
 
-In arriving at an appropriate name for the family association, the founding members considered a number of spelling variations. The name Overholser was chosen as most representative of the spelling variations found in numerous historical records. However, the original spelling of the surname was Oberholtzer.
+[OFA Bulletin](/materials/bulletin)
 
-Oberholtzer: Name Meaning and History – German: from Middle High German ober ‘above’ (or German ober- ‘upper’) + holz ‘wood’ + the suffix -er, denoting an inhabitant, a topographic name for someone who lived above a wood or on the far side of it, or alternatively a habitational name for someone who lived in a place known as Oberholtz (‘upper wood’).
+> The OFA began publication of a twice annual Bulletin in 1979. The OFA Bulletin
+is published twice yearly and has been distributed via US Mail as well as email.
+Past issues of the OFA Bulletin are available in PDF format.
 
-Following is a list of surnames included in the OFA’s families: Oberholtz, Uberholtzer, Overholser, Oberheuser, Overhults, VanHulser, Overhuls, Overhalser, Overhalt, Atherholt, Obold, Uberholser, Overholtzer, Overholt, Overhulster, Oberholser, Oberholtzer. Other names may be added as they are identified.
+OFA Book
+
+> The OFA has published a book entitled “The Oberholtzer Book.” The Book is
+described as “A Foundation Book of Oberholtzer Immigrants and Unestablished
+Lines.”
+
+OFA CDs
+
+> The OFA has published a CD entitled “MC Family Line, Marcus Oberholtzer.” The
+CD contains 5.43MB or 861 pages of Overholser family data.
+
+Historical Documents
+
+> Historical documents of the Overholser Family Association are available in PDF
+format.
