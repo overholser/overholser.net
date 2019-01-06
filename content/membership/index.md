@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "Membership"
 ---
 
-In arriving at an appropriate name for the family association, the founding members considered a number of spelling variations. The name Overholser was chosen as most representative of the spelling variations found in numerous historical records. However, the original spelling of the surname was Oberholtzer.
+Membership in the Overholser Family Association is open to anyone who is interested in the ancestors and descendants of the Overholser families of North America. Membership is free, however, donations to support the work of the organization are always welcome!
 
-Oberholtzer: Name Meaning and History – German: from Middle High German ober ‘above’ (or German ober- ‘upper’) + holz ‘wood’ + the suffix -er, denoting an inhabitant, a topographic name for someone who lived above a wood or on the far side of it, or alternatively a habitational name for someone who lived in a place known as Oberholtz (‘upper wood’).
-
-Following is a list of surnames included in the OFA’s families: Oberholtz, Uberholtzer, Overholser, Oberheuser, Overhults, VanHulser, Overhuls, Overhalser, Overhalt, Atherholt, Obold, Uberholser, Overholtzer, Overholt, Overhulster, Oberholser, Oberholtzer. Other names may be added as they are identified.
+To establish your membership in the OFA, make a donation, sign up for the OFA Bulletin, or order the OFA Book or CD, please [contact the Overholser Family Association](contact/).
