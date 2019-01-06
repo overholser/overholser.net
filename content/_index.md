@@ -1,6 +1,5 @@
 ---
 title: "Overholser Family Association"
-menu: "main"
 ---
 
 Welcome to the official website of the Overholser Family Association, which is

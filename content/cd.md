@@ -1,28 +1,9 @@
 ---
-title: "Family Lines"
+title: "OFA CD"
 ---
 
-The following family lines are available for download in PDF format. The OFA website search includes all of the contents of these family lines.
+The OFA has published a CD entitled "MC Family Line, Marcus Oberholtzer." The CD contains 5.43MB or 861 pages of Overholser family data. The file is Read Only and requires the Adobe Reader 8.3 version or later to read.
 
-The research and compilation of these OFA Family lines was done by Dennis L. Oberholtzer and others listed in each document, who have generously made these available for the OFA website.
+Anyone may purchase a copy of this CD, and the cost is $8.00 + $2.00 shipping & handling. If you have any questions regarding the CD or your order, [contact the Overholser Family Association](/contact).
 
-* AS Abraham Overholtzer of Springfield Twp PA Line
-* AV Abraham Overholts of Franklin Co VA Line
-* CA CV AC Christian Overholser of Reading Co PA Line
-* CH Christian Oberholtzer of Hempfield Twp PA Line
-* HA Henry Overholser of Adams Co PA Line
-* HJ Hans Jacob Oberholtzer of Hatfield Twp PA Line
-* IC Isaac Overholt of Canada Line
-* JA AB JM CA John Overholser of Ireland Line
-* JB Jacob Overholtzer of Berks Co PA Line
-* JC Jacob Oberholtzer of Northampton Co PA Line
-* JF Jacob of Franconia Township PA Line
-* JJ John Oberholtzer of Juniata Co PA Line
-* JL Jacob of Brecknock Twp PA Line
-* MC MT Marcus Oberholtzer of Chester Co PA Line
-* ML Martin Oberholtzer of Lancaster Co PA Line
-* MV Marcus Oberholtzer of Rockingham Co VA Line
-* OS Oberholzer of Switzerland Europe Line
-* SL Samuel Oberholtzer Line
-* VO Abraham Overholt of Ohio Line
-* Small Overholser Family Lines
+To bring our publications up to date with current Overholser family relatives, we would appreciate your input for your Overholser family history. If you would like to contribute to our efforts to compile an overall Overholser family history, please [contact the Overholser Family Association](/contact).

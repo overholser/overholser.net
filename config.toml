@@ -27,11 +27,20 @@ theme = "ananke"
     weight = 3
 
   [[menu.main]]
+    identifier = "ofa-materials"
     name = "OFA Materials"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/materials/"
     weight = 4
+
+  [[menu.main]]
+    parent = "ofa-materials"
+    name = "OFA Bulletins"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/bulletins/"
+    weight = 1
 
   [[menu.main]]
     name = "Annual Reunions"
