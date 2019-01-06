@@ -1,4 +1,4 @@
-baseURL = "https://overholser.net/"
+baseURL = "https://overholser.net"
 languageCode = "en-us"
 title = "Overholser Family Association"
 # theme = "hugo-bootstrap-premium"

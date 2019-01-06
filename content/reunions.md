@@ -17,7 +17,7 @@ We will have food and space for one and all!
 
 Past Reunions:
 
-* [2014 Annual OFA Reunion](/reunions/2014/)
+* [2014 Annual OFA Reunion](/2014-reunion/)
 
 Next Reunion: The details of the next reunion can be found in the most recent
-issue of the [OFA Bulletin](/materials/bulletin/).
+issue of the [OFA Bulletin](/bulletin/).
