@@ -4,7 +4,7 @@ title: "Overholser Family Association"
 
 ### Home
 
-<img style="float: right;" hspace="40px" src="/home/OFA.png" width="200px" alt="OFA Logo">
+<img style="float: right;" hspace="40px" src="/home/OFA.png" width="145px" alt="OFA Logo">
 
 Welcome to the official website of the Overholser Family Association, which is
 based in Lancaster County, Pennsylvania. We cordially invite you to browse our
@@ -15,8 +15,6 @@ Some alternate spellings of the family name include Oberholtz, Uberholtzer,
 Overholser, Oberheuser, Overhults, VanHulser, Overhuls, Overhalser, Overhalt,
 Atherholt, Obold, Uberholser, Overholtzer, Overholt, Overhulster, Oberholser,
 and Oberholtzer.
-
-&nbsp;
 
 ### Annual OFA Reunion
 
