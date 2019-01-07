@@ -1,0 +1,10 @@
+# Redirects from what the browser requests to what we serve
+
+/about-us          /about
+/contact-us        /contact
+/reunion           /reunions
+/ofa-materials     /library
+/ofa-family-lines  /family-lines
+/ofa-bulletin      /bulletins
+/ofa-book          /book
+/ofa-cd            /cd
