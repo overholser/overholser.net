@@ -168,7 +168,7 @@ subsequent research resulted in a published biographical article, "Henry L.
 Heisey: Bishop of Manor-Pequea District, Lancaster County," in Brethren in
 Christ History and Life (2007).
 
-[An Overholtzer Teamster with the Braddock Expedition, 1755](An-Overholtzer-Teamster-with-the-Braddock-Expedition-1755.pdf)
+[An Overholtzer Teamster with the Braddock Expedition, 1755](/historical-documents/An-Overholtzer-Teamster-with-the-Braddock-Expedition-1755.pdf)
 
 > The most complete account of the Pennsylvania German teamsters which were
 recruited by Benjamin Franklin for the support of the Braddock Expedition is
@@ -179,6 +179,25 @@ PA in 1934 and contains 271 pages. The Braddock expedition is described in
 Chapter IV, pp 77-94. The same event is described by Douglas Southall Freeman in
 "George Washington", Volume II, chapters II through VII, and contains a good
 account of the preparation of the campaign and the battle
+
+[From Adam to Alemanni to America](/historical-documents/From-Adam-to-Alemanni-to-America.pdf)
+
+> It is hard for us to imagine the ability to trace our family tree to the very
+beginning of civilization with God’s first eternal creation - Adam and Eve. But
+amazing as God’s grace is, so also He has preserved enough documentation to show
+our family tree directly linked through Noah to Adam. The above is the direct
+tree line to the Oberholtzer family. Many Swiss Anabaptist lines also come from
+the Alemani tribe and come through this same lineage.
+
+> In Central Europe between the years of 4800 to 2400 bce, there was a change
+toward a drier and more strongly seasonal climate. This came due to the rapid
+depletion of the cloud canopy which covered the Earth. Trees in Central Europe
+began to slowly and irregularly disappear, according to modern pollen records.
+
+> In the 15th Century bce, the North Balkan States sent molten iron to Cyprus
+for the iron manufacturing. Tin was being added, as well as carbon, in the
+earliest attempts to create a harder steel. The Philistines on the Gaza strip
+would greatly enhance the process during the 13th Century bce.
 
 Letters to Reverend Jacob Oberholtzer (JF)
 
