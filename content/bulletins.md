@@ -16,6 +16,7 @@ search includes all of the contents of past OFA Bulletins.
 
 * Volume 41 (2019)
     * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_41_Number_1.pdf)
+    * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_41_Number_2.pdf)
 * Volume 40 (2018)
     * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_40_Number_1.pdf)
     * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_40_Number_2.pdf)
