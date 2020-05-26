@@ -18,9 +18,9 @@ and Oberholtzer.
 
 ### Annual OFA Reunion
 
-The annual OFA reunion is currently held in Lancaster County, Pennsylvania,
-during the first weekend in August each year, and you can [view more information
-about the annual reunion](/reunion/).
+**The Overholser Family Association Reunion will not be held on the first
+weekend of August 2020 as originally planned.** [View more
+information](/reunions/) about the annual reunion.
 
 ### Facebook
 
