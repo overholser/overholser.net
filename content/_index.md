@@ -37,7 +37,7 @@ site-wide search functionality is provided as an external Google site search.
 
 <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
 <input name="sitesearch" type="hidden" value="overholser.net">
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search OFA website" required="required"  type="text" size="30">
+<input autocomplete="on" class="form-control search" name="q" placeholder="Search OFA website" required="required"  type="text" size="50">
 <button class="button" type="submit">Search</button>
 </form>
 
