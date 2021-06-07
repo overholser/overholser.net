@@ -14,10 +14,14 @@ email address as well as hard copy to those not having email.
 Past issues of the OFA Bulletin are available in PDF format. The OFA website
 search includes all of the contents of past OFA Bulletins.
 
+* Volume 43 (2021)
+    * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_43_Number_2.pdf)
+    * Issue Number 1 (Winter)
 * Volume 42 (2020)
     * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_42_Number_1.pdf)
     * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_42_Number_2.pdf)
 * Volume 41 (2019)
+    * Issue Number 2 (Summer)
     * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_41_Number_1.pdf)
 * Volume 40 (2018)
     * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_40_Number_1.pdf)
@@ -39,6 +43,7 @@ search includes all of the contents of past OFA Bulletins.
     * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_35_Number_2.pdf)
 * Volume 34 (2012)
     * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_34_Number_2.pdf)
+    * Issue Number 1 (Winter)
 * Volume 33 (2011)
     * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_33_Number_1.pdf)
     * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_33_Number_2.pdf)
