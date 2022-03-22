@@ -8,4 +8,4 @@ title: "Obituaries"
 {{</ rawhtml >}}
 
 You can also
-[view the full list of obituaries](https://docs.google.com/spreadsheets/d/1w1R8R3bWnAwU1kK6qSkNllvqIYifPXoe1QT6MHUsHrU/edit?usp=sharing).
+[view the full list of obituaries as a spreadsheet](https://docs.google.com/spreadsheets/d/1w1R8R3bWnAwU1kK6qSkNllvqIYifPXoe1QT6MHUsHrU/edit?usp=sharing).
