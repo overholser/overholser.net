@@ -44,28 +44,35 @@ theme = "ananke"
     weight = 4
 
   [[menu.main]]
+    name = "Obituarties"
+    post = "<span class='alert'>New!</span>"
+    pre = "<i class='fa fa-road'></i>"
+    url = "/obituaries/"
+    weight = 5
+
+  [[menu.main]]
     name = "Links"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/links/"
-    weight = 5
+    weight = 6
 
   [[menu.main]]
     name = "History"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/history/"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-heart'></i>"
     url = "/about/"
-    weight = 7
+    weight = 8
 
   [[menu.main]]
     name = "Contact"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/contact/"
-    weight = 8
+    weight = 9
