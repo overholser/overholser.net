@@ -16,7 +16,7 @@ search includes all of the contents of past OFA Bulletins.
 
 * Volume 46 (2024)
   * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_46_Number_1.pdf)
-  * -
+  * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_46_Number_2.pdf)
 * Volume 45 (2023)
   * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_45_Number_1.pdf)
   * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_45_Number_2.pdf)
