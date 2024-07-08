@@ -18,8 +18,11 @@ and Oberholtzer.
 
 ### Annual OFA Reunion
 
-**The Overholser Family Association Reunion will not be held on the first
-weekend of August 2020 as originally planned.** [View more
+The 2024 Overholser Family Association Reunion will be held on Friday, August 2nd, and Saturday, August 3rd.
+
+On Friday evening, there will be a gathering at Yoder’s Restaurant in New Holland, PA for dinner and a get acquainted time of fellowship. On Saturday morning, we will meet east of Terre Hill, PA.
+
+ [View more
 information](/reunions/) about the annual reunion.
 
 ### Facebook

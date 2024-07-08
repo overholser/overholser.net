@@ -18,17 +18,13 @@ food and space for one and all!
 
 **Next Reunion**:
 
-**Out of an abundance of absolute caution related to COVID-19, the Overholser
-Family Association Reunion will not be held on the first weekend of August 2020
-as originally planned.**
+Greetings OFA Members and the Stauffers, Stouffers, and Stover Families! For 2024, we are inviting you all to our OFA Reunion. We have a special treat this year as the Stauffachers of Switzerland are now connected to the Stauffers, Stouffers, and Stover families of America.
 
-Depending on the course of events between now and March 2021, a decision will be
-made for the 2021 reunion with detailed information expected to be published in
-the 2021 Winter and Summer OFA Bulletins.
+Dennis L Oberholtzer will be giving a short talk on how these families connect, and go back in time through the Europeon kings to the first century, name by name. There will be a book signing for his book Shrouded in Secrecy, a Knightly Search.
 
-Please plan to come join us in 2021. We will try to plan an extra special
-reunion for that year. In the meantime, stay safe, keep your head clear-minded,
-and enjoy the hunt for more ancestral stories.
+On Friday, August 2nd, from 6:00 pm to 8:00 pm, there will be a gathering at Yoder’s Restaurant in New Holland, PA, for dinner and a get acquainted time of fellowship.
+
+On Saturday, August 3rd, we will meet east of Terre Hill, PA at St John’s Center Church on Route 625 north of Shady Maple Restaurant from 9:00 am to mid afternoon. Many arrivals come at 10 am. We will have a pot-luck luncheon at Noon. Some meats and drinks provided.
 
 More details can be found in the most recent issue of the [OFA
 Bulletin](/bulletins/).
