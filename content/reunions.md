@@ -18,11 +18,7 @@ food and space for one and all!
 
 **Next Reunion**:
 
-Greetings OFA Members and the Stauffers, Stouffers, and Stover Families! For 2024, we are inviting you all to our OFA Reunion. We have a special treat this year as the Stauffachers of Switzerland are now connected to the Stauffers, Stouffers, and Stover families of America.
-
-Dennis L Oberholtzer will be giving a short talk on how these families connect, and go back in time through the Europeon kings to the first century, name by name. There will be a book signing for his book Shrouded in Secrecy, a Knightly Search.
-
-On Friday, August 2nd, from 6:00 pm to 8:00 pm, there will be a gathering at Yoder’s Restaurant in New Holland, PA, for dinner and a get acquainted time of fellowship.
+For 2024, we are inviting you all to our OFA Reunion. Come On Friday, August 2nd, from 6:00 pm to 8:00 pm, there will be a gathering at Yoder’s Restaurant in New Holland, PA, for dinner and a get acquainted time of fellowship.
 
 On Saturday, August 3rd, we will meet east of Terre Hill, PA at St John’s Center Church on Route 625 north of Shady Maple Restaurant from 9:00 am to mid afternoon. Many arrivals come at 10 am. We will have a pot-luck luncheon at Noon. Some meats and drinks provided.
 
