@@ -20,14 +20,14 @@ Bulletins.
   * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_47_Number_1.pdf)
   * Issue Number 2 (Summer) - Not yet published
 * Volume 46 (2024)
-  * No Bulletin Published (Winter)
-  * No Bulletin Published (Summer)
+  * Issue Number 1 (Winter) - No bulletin published
+  * Issue Number 2 (Summer) - No bulletin published
 * Volume 45 (2023)
   * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_45_Number_1.pdf)
   * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_45_Number_2.pdf)
 * Volume 44 (2022)
-  * No Bulletin Published (Winter)
-  * No Bulletin Published (Summer)
+  * Issue Number 1 (Winter) - No bulletin published
+  * Issue Number 2 (Summer) - No bulletin published
 * Volume 43 (2021)
   * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_43_Number_1.pdf)
   * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_43_Number_2.pdf)
