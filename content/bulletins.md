@@ -18,7 +18,7 @@ Bulletins.
 
 * Volume 47 (2025)
   * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_47_Number_1.pdf)
-  * Issue Number 2 (Summer) - Not yet published
+  * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_47_Number_2.pdf)
 * Volume 46 (2024)
   * [Issue Number 1 (Winter)](/bulletins/OFA_Bulletin_Volume_46_Number_1.pdf)
   * [Issue Number 2 (Summer)](/bulletins/OFA_Bulletin_Volume_46_Number_2.pdf)
