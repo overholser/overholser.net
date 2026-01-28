@@ -4,6 +4,14 @@ title = "Overholser Family Association"
 # theme = "hugo-bootstrap-premium"
 theme = "ananke"
 
+[params]
+  env = "production"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menu.main]]
@@ -44,7 +52,7 @@ theme = "ananke"
     weight = 4
 
   [[menu.main]]
-    name = "Obituarties"
+    name = "Obituaries"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
     url = "/obituaries/"
