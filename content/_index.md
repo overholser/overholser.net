@@ -1,8 +1,6 @@
 ---
 ---
 
-### Home
-
 <img style="float: right;" hspace="40px" src="/home/ofa.png" width="145px" alt="OFA Logo">
 
 Welcome to the official website of the Overholser Family Association, which is
@@ -17,12 +15,7 @@ and Oberholtzer.
 
 ### Annual OFA Reunion
 
-The 2024 Overholser Family Association Reunion will be held on Friday, August 2nd, and Saturday, August 3rd.
-
-On Friday evening, there will be a gathering at Yoder’s Restaurant in New Holland, PA for dinner and a get acquainted time of fellowship. On Saturday morning, we will meet east of Terre Hill, PA.
-
- [View more
-information](/reunions/) about the annual reunion.
+The OFA reunion is held annually in Lancaster County, Pennsylvania, during the first weekend in August. [View more information](/reunions/) about the annual reunion, or check the latest [OFA Bulletin](/bulletins/) for specific dates and details.
 
 ### Facebook
 
@@ -33,9 +26,7 @@ family members and post on your Facebook page as well.
 
 ### Search
 
-The site search includes all of the content on the OFA website as well as the
-full-text contents of the PDF documents available from this website. The
-site-wide search functionality is provided as an external Google site search.
+Search the site and all OFA documents:
 
 <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
 <input name="sitesearch" type="hidden" value="overholser.net">

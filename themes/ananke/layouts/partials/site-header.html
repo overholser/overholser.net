@@ -19,8 +19,9 @@
   </header>
 {{ else }}
   <header>
-    <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | default "bg-black" }}">
+    <div class="{{ if not .IsHome }}pb3-m pb6-l{{ end }} {{ .Site.Params.background_color_class | default "bg-black" }}">
       {{ partialCached "site-navigation.html" . }}
+      {{ if not .IsHome }}
       <div class="tc-l pv3 ph3 ph4-ns">
         <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
           {{ .Title | default .Site.Title }}
@@ -31,6 +32,7 @@
           </h2>
         {{ end }}
       </div>
+      {{ end }}
     </div>
   </header>
 {{ end }}

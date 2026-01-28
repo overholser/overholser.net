@@ -1,0 +1,16 @@
+.bg-dark-brown {
+  background-color: #352e28;
+}
+
+.bg-near-white {
+  background-color: #f5f0eb;
+}
+
+a, article a, .nested-links a {
+  color: #352e28;
+  text-decoration: underline;
+}
+
+a:hover, article a:hover, .nested-links a:hover {
+  color: #4a3f36;
+}

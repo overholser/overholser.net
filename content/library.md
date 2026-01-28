@@ -2,29 +2,39 @@
 title: "OFA Library"
 ---
 
-[OFA Bulletins](/bulletins)
+<style>
+.library-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 20px; }
+.library-card { background: #faf8f5; padding: 20px; border-radius: 8px; border: 1px solid #d5c5ae; }
+.library-card h3 { margin-top: 0; line-height: 1.2; }
+.library-card h3 a { color: #352e28; }
+.library-card p { margin-bottom: 0; line-height: 1.5; }
+</style>
 
-> The OFA began publication of a twice annual Bulletin in 1979. The OFA Bulletin
-is published twice yearly and has been distributed via US Mail as well as email.
-Past issues of the OFA Bulletin are available in PDF format.
+<div class="library-grid">
 
-[OFA Family Lines](/family-lines)
+<div class="library-card">
+<h3><a href="/bulletins/">OFA Bulletins</a></h3>
+<p>Bulletin archive from 1979 to present with family news, research, and reunion updates.</p>
+</div>
 
-> View and download the latest research for Overholser family lines in PDF
-format.
+<div class="library-card">
+<h3><a href="/family-lines/">Family Lines</a></h3>
+<p>Documented family lines with genealogical research and descendant records.</p>
+</div>
 
-[OFA Historical Documents](/historical-documents)
+<div class="library-card">
+<h3><a href="/historical-documents/">Documents</a></h3>
+<p>Reunion programs, meeting minutes, and historical research from the OFA archives.</p>
+</div>
 
-> Historical documents of the Overholser Family Association are available in PDF
-format.
+<div class="library-card">
+<h3><a href="/book/">Oberholtzer Book</a></h3>
+<p>Foundation reference for Oberholtzer immigrants and unconnected family lines.</p>
+</div>
 
-[OFA Book](/book)
+<div class="library-card">
+<h3><a href="/cd/">Family Line CD</a></h3>
+<p>861 pages of Marcus Oberholtzer genealogical data and family records.</p>
+</div>
 
-> The OFA has published a book entitled “The Oberholtzer Book.” The Book is
-described as “A Foundation Book of Oberholtzer Immigrants and Unestablished
-Lines.”
-
-[OFA CD](/cd)
-
-> The OFA has published a CD entitled “MC Family Line, Marcus Oberholtzer.” The
-CD contains 5.43MB or 861 pages of Overholser family data.
+</div>
