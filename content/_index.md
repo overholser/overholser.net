@@ -1,5 +1,4 @@
 ---
-title: "Overholser Family Association"
 ---
 
 ### Home
