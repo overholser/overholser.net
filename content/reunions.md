@@ -18,9 +18,4 @@ food and space for one and all!
 
 **Next Reunion**:
 
-For 2024, we are inviting you all to our OFA Reunion. Come On Friday, August 2nd, from 6:00 pm to 8:00 pm, there will be a gathering at Yoder’s Restaurant in New Holland, PA, for dinner and a get acquainted time of fellowship.
-
-On Saturday, August 3rd, we will meet east of Terre Hill, PA at St John’s Center Church on Route 625 north of Shady Maple Restaurant from 9:00 am to mid afternoon. Many arrivals come at 10 am. We will have a pot-luck luncheon at Noon. Some meats and drinks provided.
-
-More details can be found in the most recent issue of the [OFA
-Bulletin](/bulletins/).
+Details for upcoming reunions are announced in the [OFA Bulletin](/bulletins/). Check the latest issue for specific dates, times, and location information.

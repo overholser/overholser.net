@@ -68,7 +68,7 @@ Overholser 66th Reunion to be held, as I’m sure you’ll remember, at the home
 our President, and his wife, Spencer and Ruth Overholser, in Oley, Pa. on
 Saturday, August. 21, 1976 (the third Sat. in August).
 
-[OFA Reunion Announcement (1978](/historical-documents/OFA-Reunion-Announcement-1978.pdf)
+[OFA Reunion Announcement (1978)](/historical-documents/OFA-Reunion-Announcement-1978.pdf)
 
 > Dear Members of the Overholser Clan: This is perhaps early for an announcement
 of the Overholser Reunion which will be held at Terre Hill, Pa., on the 4th

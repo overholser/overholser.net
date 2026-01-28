@@ -22,7 +22,7 @@ spelling) sailed by various ships from Europe to America. The actual number of
 families or individuals by this surname who traveled to America has not been
 determined. In any event, a large number of those individuals has been
 identified by the Overholser Family Association and the names thereof along with
-many descendants have been published in the OFA’s “The Oberhottzer Book.” Names
+many descendants have been published in the OFA's "The Oberholtzer Book." Names
 of those individuals include the following:
 
 List of Identified Male Oberholtzer Families
