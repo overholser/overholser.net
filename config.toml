@@ -6,6 +6,7 @@ theme = "ananke"
 
 [params]
   env = "production"
+  favicon = "home/OFA.png"
 
 [markup]
   [markup.goldmark]
