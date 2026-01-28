@@ -24,9 +24,4 @@ Related Overholser family websites:
 <p>Overholser family genealogy research and records.</p>
 </div>
 
-<div class="links-card">
-<h3><a href="https://familyandscoutinghistory.com/index.php/14-sample-data-articles/138-susannah-overholser-and-her-ancestors">Susannah Overholser</a></h3>
-<p>Biography of Abraham Overholser and related ancestors.</p>
-</div>
-
 </div>
