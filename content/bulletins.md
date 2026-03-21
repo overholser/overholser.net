@@ -21,6 +21,7 @@ Past issues of the OFA Bulletin are available in PDF format. Volumes are numbere
 </tr>
 </thead>
 <tbody>
+<tr style="background: #faf8f5; border-bottom: 1px solid #e0d8cf;"><td style="padding: 10px;"><strong>Volume 48</strong> (2026)</td><td style="padding: 10px; text-align: center;"><a href="/bulletins/OFA_Bulletin_Volume_48_Number_1.pdf">Issue 1 (Winter)</a> | <span style="color: #999;">No summer issue</span></td></tr>
 <tr style="background: #faf8f5; border-bottom: 1px solid #e0d8cf;"><td style="padding: 10px;"><strong>Volume 47</strong> (2025)</td><td style="padding: 10px; text-align: center;"><a href="/bulletins/OFA_Bulletin_Volume_47_Number_1.pdf">Issue 1 (Winter)</a> | <a href="/bulletins/OFA_Bulletin_Volume_47_Number_2.pdf">Issue 2 (Summer)</a></td></tr>
 <tr style="background: #faf8f5; border-bottom: 1px solid #e0d8cf;"><td style="padding: 10px;"><strong>Volume 46</strong> (2024)</td><td style="padding: 10px; text-align: center;"><a href="/bulletins/OFA_Bulletin_Volume_46_Number_1.pdf">Issue 1 (Winter)</a> | <a href="/bulletins/OFA_Bulletin_Volume_46_Number_2.pdf">Issue 2 (Summer)</a></td></tr>
 <tr style="background: #faf8f5; border-bottom: 1px solid #e0d8cf;"><td style="padding: 10px;"><strong>Volume 45</strong> (2023)</td><td style="padding: 10px; text-align: center;"><a href="/bulletins/OFA_Bulletin_Volume_45_Number_1.pdf">Issue 1 (Winter)</a> | <a href="/bulletins/OFA_Bulletin_Volume_45_Number_2.pdf">Issue 2 (Summer)</a></td></tr>
