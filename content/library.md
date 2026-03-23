@@ -3,7 +3,6 @@ title: "OFA Library"
 ---
 
 <style>
-.library-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-top: 20px; }
 .library-card { background: #faf8f5; padding: 20px; border-radius: 8px; border: 1px solid #d5c5ae; }
 .library-card h3 { margin-top: 0; line-height: 1.2; }
 .library-card h3 a { color: #352e28; }

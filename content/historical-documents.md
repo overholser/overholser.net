@@ -13,8 +13,7 @@ Historical documents of the Overholser Family Association are available in PDF f
 .doc-title { font-weight: bold; font-size: 18px; margin-bottom: 10px; }
 .doc-title a { color: #352e28; }
 .doc-desc { font-size: 16px; color: #555; line-height: 1.6; margin: 0; }
-.letter-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 10px; }
-.letter-grid a { font-size: 16px; color: #352e28; }
+.letter-grid a { display: block; padding: 4px 0; font-size: 16px; color: #352e28; text-decoration: none; }
 </style>
 
 <div class="group">

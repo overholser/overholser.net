@@ -13,7 +13,8 @@ email address as well as hard copy to those not having email.
 
 Past issues of the OFA Bulletin are available in PDF format. Volumes are numbered chronologically by year, starting with Volume 1 in 1979.
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;">
 <thead>
 <tr style="background: #352e28; color: white;">
 <th style="padding: 12px; text-align: left;">Year</th>
@@ -71,3 +72,4 @@ Past issues of the OFA Bulletin are available in PDF format. Volumes are numbere
 <tr style="background: #faf8f5; border-bottom: 1px solid #e0d8cf;"><td style="padding: 10px;"><strong>Volume 1</strong> (1979)</td><td style="padding: 10px; text-align: center;"><a href="/bulletins/OFA_Bulletin_Volume_1_Number_1.pdf">Issue 1 (Winter)</a> | <a href="/bulletins/OFA_Bulletin_Volume_1_Number_2.pdf">Issue 2 (Summer)</a></td></tr>
 </tbody>
 </table>
+</div>

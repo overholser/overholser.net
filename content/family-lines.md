@@ -4,7 +4,8 @@ title: "OFA Family Lines"
 
 The following family lines are available for download in PDF format. The research and compilation was done by Dennis L. Oberholtzer and others listed in each document.
 
-<table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+<div class="table-responsive">
+<table style="width: 100%; border-collapse: collapse;">
 <thead>
 <tr style="background: #352e28; color: white;">
 <th style="padding: 10px 15px; text-align: left;">ID</th>
@@ -39,3 +40,4 @@ The following family lines are available for download in PDF format. The researc
 <tr style="background: #faf8f5; border-bottom: 1px solid #e0d8cf;"><td style="padding: 8px 15px;">—</td><td style="padding: 8px 15px;"><a href="/family-lines/Unconnected-Male-O-Lines.pdf">Unconnected Male O Lines</a></td></tr>
 </tbody>
 </table>
+</div>

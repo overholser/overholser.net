@@ -1,7 +1,7 @@
 ---
 ---
 
-<img style="float: right;" hspace="40px" src="/home/ofa.png" width="145px" alt="OFA Logo">
+<img class="ofa-logo" src="/home/ofa.png" width="145" alt="OFA Logo">
 
 Welcome to the official website of the Overholser Family Association, which is
 based in Lancaster County, Pennsylvania. We cordially invite you to browse our
@@ -28,10 +28,10 @@ family members and post on your Facebook page as well.
 
 Search the site and all OFA documents:
 
-<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+<form action="https://www.google.com/search" class="search-form" method="get" name="searchform" target="_blank">
 <input name="sitesearch" type="hidden" value="overholser.net">
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search OFA website" required="required"  type="text" size="50">
-<button class="button" type="submit">Search</button>
+<input autocomplete="on" name="q" placeholder="Search OFA website" required="required" type="text">
+<button type="submit">Search</button>
 </form>
 
 ### Donate with Paypal
