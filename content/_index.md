@@ -18,10 +18,10 @@ first weekend in August. [View more information](/reunions/) about the annual
 reunion, or check the latest [OFA Bulletin](/bulletins/) for specific dates and
 details.
 
-## Facebook
+## Stay Connected
 
 Visit the [Overholser Family Association on
-Facebook](https://www.facebook.com/pages/Overholser-Family-Association/506848282679623)!
+Facebook](https://www.facebook.com/OFAssociation/)!
 You can post pictures, links, questions, etc. Please share the news with other
 family members and post on your Facebook page as well.
 
