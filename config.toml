@@ -1,13 +1,12 @@
 baseURL = "https://overholser.net"
 languageCode = "en-us"
 title = "Overholser Family Association"
-# theme = "hugo-bootstrap-premium"
 theme = "ananke"
 disableKinds = ["taxonomy", "term"]
 
 [params]
   env = "production"
-  favicon = "home/ofa.png"
+  favicon = "favicon.png"
   background_color_class = "bg-dark-brown"
   custom_css = ["css/custom.css"]
 
@@ -19,72 +18,51 @@ disableKinds = ["taxonomy", "term"]
 [menu]
 
   [[menu.main]]
-    identifier = "library"
+    name = "Home"
+    url = "/"
+    weight = -1
+
+  [[menu.main]]
     name = "Library"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/library/"
     weight = 1
 
   [[menu.main]]
-    parent = "library"
-    name = "OFA Bulletins"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
-    url = "/bulletins/"
-    weight = 1
-
-  [[menu.main]]
     name = "Reunions"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/reunions/"
     weight = 2
 
   [[menu.main]]
     name = "Membership"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/membership/"
     weight = 3
 
   [[menu.main]]
     name = "Lookups"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/lookups/"
     weight = 4
 
   [[menu.main]]
     name = "Obituaries"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/obituaries/"
     weight = 5
 
   [[menu.main]]
     name = "Links"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/links/"
     weight = 6
 
   [[menu.main]]
     name = "History"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/history/"
     weight = 7
 
   [[menu.main]]
     name = "About"
-    pre = "<i class='fa fa-heart'></i>"
     url = "/about/"
     weight = 8
 
   [[menu.main]]
     name = "Contact"
-    post = "<span class='alert'>New!</span>"
-    pre = "<i class='fa fa-road'></i>"
     url = "/contact/"
     weight = 9

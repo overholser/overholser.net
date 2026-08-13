@@ -2,38 +2,31 @@
 title: "OFA Library"
 ---
 
-<style>
-.library-card { background: #faf8f5; padding: 20px; border-radius: 8px; border: 1px solid #d5c5ae; }
-.library-card h3 { margin-top: 0; line-height: 1.2; }
-.library-card h3 a { color: #352e28; }
-.library-card p { margin-bottom: 0; line-height: 1.5; }
-</style>
-
 <div class="library-grid">
 
-<div class="library-card">
-<h3><a href="/bulletins/">OFA Bulletins</a></h3>
+<a class="library-card" href="/bulletins/">
+<h3>OFA Bulletins</h3>
 <p>Bulletin archive from 1979 to present with family news, research, and reunion updates.</p>
-</div>
+</a>
 
-<div class="library-card">
-<h3><a href="/family-lines/">Family Lines</a></h3>
+<a class="library-card" href="/family-lines/">
+<h3>Family Lines</h3>
 <p>Documented family lines with genealogical research and descendant records.</p>
-</div>
+</a>
 
-<div class="library-card">
-<h3><a href="/historical-documents/">Documents</a></h3>
+<a class="library-card" href="/historical-documents/">
+<h3>Documents</h3>
 <p>Reunion programs, meeting minutes, and historical research from the OFA archives.</p>
-</div>
+</a>
 
-<div class="library-card">
-<h3><a href="/book/">Oberholtzer Book</a></h3>
+<a class="library-card" href="/book/">
+<h3>Oberholtzer Book</h3>
 <p>Foundation reference for Oberholtzer immigrants and unconnected family lines.</p>
-</div>
+</a>
 
-<div class="library-card">
-<h3><a href="/cd/">Family Line CD</a></h3>
+<a class="library-card" href="/cd/">
+<h3>Family Line CD</h3>
 <p>861 pages of Marcus Oberholtzer genealogical data and family records.</p>
-</div>
+</a>
 
 </div>

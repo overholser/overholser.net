@@ -6,7 +6,7 @@ The OFA has published a book entitled “The Oberholtzer Book.” The Book is
 described as “A Foundation Book of Oberholtzer Immigrants and Unestablished
 Lines.” Anyone may purchase a copy of our Book.
 
-![alt text](/book/Oberholtzer-Book.jpg "Oberholtzer Book")
+![The Oberholtzer Book](/book/Oberholtzer-Book.jpg)
 
 The OFA Book is: $40.00 + $4.40 shipping & handling (book rate). PA residents
 need to add $2.40 for PA tax. If you have any questions regarding the book or

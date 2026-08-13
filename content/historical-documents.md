@@ -4,18 +4,6 @@ title: "OFA Historical Documents"
 
 Historical documents of the Overholser Family Association are available in PDF format. The OFA website search includes all of the contents of these documents.
 
-<style>
-.group { margin-top: 30px; }
-.group-header { background: #352e28; color: white; padding: 12px 18px; font-weight: bold; font-size: 18px; }
-.group-list { background: #faf8f5; margin: 0; padding: 20px 25px; border: 1px solid #d5c5ae; border-top: none; list-style: none; }
-.group-list li { margin-bottom: 20px; padding-bottom: 20px; border-bottom: 1px solid #e0d8cf; }
-.group-list li:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
-.doc-title { font-weight: bold; font-size: 18px; margin-bottom: 10px; }
-.doc-title a { color: #352e28; }
-.doc-desc { font-size: 16px; color: #555; line-height: 1.6; margin: 0; }
-.letter-grid a { display: block; padding: 4px 0; font-size: 16px; color: #352e28; text-decoration: none; }
-</style>
-
 <div class="group">
 <div class="group-header">Coat of Arms</div>
 <ul class="group-list">
@@ -136,7 +124,7 @@ Historical documents of the Overholser Family Association are available in PDF f
 <div class="group-header">Letters to Reverend Jacob Oberholtzer (JF)</div>
 <ul class="group-list">
 <li>
-<p class="doc-desc" style="margin-bottom: 15px;">Historical letters and documents in JPG format:</p>
+<p class="doc-desc">Historical letters and documents in JPG format:</p>
 <div class="letter-grid">
 <a href="/historical-documents/JF-Letters-to-Rev-Jacob/Alderfer-1.jpg">Alderfer-1</a>
 <a href="/historical-documents/JF-Letters-to-Rev-Jacob/Alderfer-2.jpg">Alderfer-2</a>

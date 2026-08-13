@@ -4,28 +4,22 @@ title: "Contact"
 
 ### Contact OFA Officers
 
-For direct contact information or a list of current OFA officers, refer to the
-most recent OFA Bulletin.
+For current officer contact information, refer to the most recent OFA Bulletin.
 
 ### OFA Discussion Group
 
-The OFA has an online discussion group where you can post questions, comments,
-family lookup requests, discussion about the annual OFA reunion, or any other
-topics relevant to the OFA:
+The OFA runs an online discussion group where you can post questions, comments,
+family lookup requests, reunion news, and anything else relevant to the OFA, by
+email or on the web.
 
-https://groups.google.com/forum/#!forum/overholser-family-association
+[Visit the OFA discussion group](https://groups.google.com/g/overholser-family-association)
 
-You can register for the OFA discussion group, then post to the group via email
-or web using the above link.
+To join, open the discussion group page and click **Apply to join group** near
+the top, then fill out the form.
 
-To join the OFA discussion group, visit the OFA discussion group page, then
-click the Apply to join group button near the top of the page, then fill out the
-form with your information to join the group.
+![Apply to join the OFA discussion group](/contact/ofa-discussion-group-1.png)
 
-![alt text](/contact/ofa-discussion-group-1.png "OFA Discussion Group - Apply")
+Once you’re approved, start a post with the **New Topic** button near the top of
+the page.
 
-Once you’ve joined the OFA discussion group and been approved, you can post a
-new message to the group by clicking the New Topic button near the top of the
-page and posting your message.
-
-![alt text](/contact/ofa-discussion-group-1.png "OFA Discussion Group - New Topic")
+![Posting a new topic in the OFA discussion group](/contact/ofa-discussion-group-2.png)
