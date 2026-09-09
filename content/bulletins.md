@@ -9,7 +9,7 @@ is published twice yearly and has been distributed via US Mail as well as email.
 In 2008, we added an electronic version which was emailed to members having an
 email address as well as hard copy to those not having email.
 
-### Bulletin Archive
+## Bulletin Archive
 
 Past issues of the OFA Bulletin are available in PDF format. Volumes are numbered chronologically by year, starting with Volume 1 in 1979.
 

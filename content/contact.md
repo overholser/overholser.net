@@ -2,11 +2,11 @@
 title: "Contact"
 ---
 
-### Contact OFA Officers
+## Contact OFA Officers
 
 For current officer contact information, refer to the most recent OFA Bulletin.
 
-### OFA Discussion Group
+## OFA Discussion Group
 
 The OFA runs an online discussion group where you can post questions, comments,
 family lookup requests, reunion news, and anything else relevant to the OFA, by

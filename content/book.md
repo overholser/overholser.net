@@ -17,7 +17,9 @@ we would appreciate your input for your Overholser family history. If you would
 like to contribute to our efforts to compile an overall Overholser family
 history, please [contact the Overholser Family Association](/contact/).
 
-Introduction In the 1700s, a number of families named Oberholtzer (or similar
+## Introduction
+
+In the 1700s, a number of families named Oberholtzer (or similar
 spelling) sailed by various ships from Europe to America. The actual number of
 families or individuals by this surname who traveled to America has not been
 determined. In any event, a large number of those individuals has been
@@ -25,9 +27,9 @@ identified by the Overholser Family Association and the names thereof along with
 many descendants have been published in the OFA's "The Oberholtzer Book." Names
 of those individuals include the following:
 
-List of Identified Male Oberholtzer Families
-(alphabetical by first name, then chronological order)
-Some descendants of the following individuals are identified in The Book.
+## Identified Male Oberholtzer Families
+
+*(Alphabetical by first name, then chronological order. Some descendants of the following individuals are identified in The Book.)*
 
 * Abraham Overholser c1740 – 1798 Bedford Co PA
 * Abraham Overholtzer m. 1789 Montgomery Co PA
@@ -70,9 +72,9 @@ Some descendants of the following individuals are identified in The Book.
 * Samuel Oberholtzer c1700 Europe – 1748 Manor Twp, Lancaster Co PA
 * (1727 immigrant on MOLLY)
 
-List of Identified Female Families
-(alphabetical by first name, then chronological order with husband identified)
-Descendants of the following individuals are not identified in The Book.
+## Identified Female Families
+
+*(Alphabetical by first name, then chronological order with husband identified. Descendants of the following individuals are not identified in The Book.)*
 
 * Anna Oberholtzer b c1699 Europe Earl Twp, Lancaster Co PA m. Hans Heinrich Martin
 * Anna Elisabetha Oberholtzer Warwick, Lancaster Co PA m. Johannes Staengle

@@ -8,7 +8,7 @@ Lines, which was compiled and edited by Barbara B. Ford. Published by the OFA in
 1995, The Oberholtzer Book chronicles the first generations of six “established”
 Oberholtzer lines, and 18 other “unestablished” lines identified in Pennsylvania
 and Ohio. Also documented are five Canadian lines, three Virginia lines, eight
-female lines, and “odds and ends.” See OFA Book.
+female lines, and “odds and ends.” See the [OFA Book](/book/).
 
 While the OFA Book is available for purchase, we realize that there are those
 who prefer not to buy books. Therefore, the OFA has established a lookup

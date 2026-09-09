@@ -16,6 +16,6 @@ page](/bulletins/) and look for the latest Summer edition of the Bulletin.
 Meanwhile, we invite you to join us in any year for our Reunion. We will have
 food and space for one and all!
 
-**Next Reunion**:
+## Next Reunion
 
 Details for upcoming reunions are announced in the [OFA Bulletin](/bulletins/). Check the latest issue for specific dates, times, and location information.

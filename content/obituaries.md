@@ -3,7 +3,7 @@ title: "Obituaries"
 ---
 
 {{< rawhtml >}}
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS38-QQmlF8H3R6oL1K6bv_71tAcJk5EoFC_J7gBO3mTDMuVu7ZYPM43-_39MPaQ7A_h9Qr75fKTx4p/pubhtml?widget=true&amp;headers=false" style="width: 100%; height: 800px; border: none;">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS38-QQmlF8H3R6oL1K6bv_71tAcJk5EoFC_J7gBO3mTDMuVu7ZYPM43-_39MPaQ7A_h9Qr75fKTx4p/pubhtml?widget=true&amp;headers=false" title="OFA Obituaries Spreadsheet" style="width: 100%; height: 800px; border: none;">
 </iframe>
 {{</ rawhtml >}}
 

@@ -31,7 +31,7 @@ Search the site and all OFA documents:
 
 <form action="https://www.google.com/search" class="search-form" method="get" name="searchform" target="_blank">
 <input name="sitesearch" type="hidden" value="overholser.net">
-<input autocomplete="on" name="q" placeholder="Search OFA website" required="required" type="text">
+<input autocomplete="on" name="q" placeholder="Search OFA website" aria-label="Search OFA website" required="required" type="text">
 <button type="submit">Search</button>
 </form>
 
